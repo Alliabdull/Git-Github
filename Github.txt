@@ -1,0 +1,9 @@
+Github adalah situs web juga sebuah layanan cloud yang bisa membantu para pengguna untuk menyimpan,mengelola dan mengembangkan. Didalam github kita bisa mengupload file,membuat file yang mana filenya bisa kita kelola dengan version control system punya github
+
+Fungsi Github yang paling utama adalah untuk memudahkan kolaborasi dalam menjalankan project. Dengan distributed version control, semua developer atau anggota tim bisa mengakses dan mengelola kode di satu tempat. Misalnya, melakukan review code bersama, diskusi perbaikan bug, dan sebagainya
+
+Apa perbedaan Git dan GitHub?
+Git dan GitHub menangani commands secara berbeda
+
+Developer yang menggunakan Git dapat menggunakan command-line tool, yaitu pengubah kode dan dapat digabungkan menuju perangkat lokal. Sedangkan, GitHub menyediakan interface grafis berbasis cloud sebagai tempat untuk melakukan seluruh tugas.
+Fitur public dan private yang disediakan github dapat diakses dan digunakan secara gratis. Tidak seperti Github yang hanya menyediakan layanan public saja yang gratis, sementara layanan private berbayar.
