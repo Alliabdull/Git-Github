@@ -1,3 +1,11 @@
+GIT
+Git merupakan software berbasis Version Control System (VCS) yang bertugas untuk mencatat perubahan seluruh file
+atau repository suatu project.
+
+Fungsi Github yang paling utama adalah untuk memudahkan kolaborasi dalam menjalankan project.
+Dengan distributed version control, semua developer atau anggota tim bisa mengakses dan mengelola
+kode di satu tempat. Misalnya, melakukan review code bersama, diskusi perbaikan bug, dan sebagainya
+
 OR CREATE A NEW REPOSITORY ON THE COMMAND LINE
 
 echo "#git-github" >> README.md
