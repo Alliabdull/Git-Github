@@ -46,3 +46,6 @@ Dasar Git
 -Git prune
 -Git vsck
 -Git rebase
+
+Fungsi utama dari GIT adalah mengatur versi source code program dengan memberikan tanda baris serta code mana
+ yang perlu ditambah ataupun diganti.
